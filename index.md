@@ -7,4 +7,4 @@ FRANÇAIS https://www.navicellatheatre.org
 
 ![Dea déesse de l'electricité](dea2.gif)
 
-Buona visita Bonne visite!
+Bonne visite!
