@@ -1,0 +1,1 @@
+cd /home/victor/Documents/Githeatre/navicellateatro.github.io && /home/victor/Documents/Githeatre/Textplay/textplay < scriptedlives.fountain > index.html && git add . && git commit -m "updated screenplay" && git push
