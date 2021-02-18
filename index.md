@@ -8,3 +8,7 @@ We can try to make a little list:
 ----------
 
 Go to this [page](trying.md) it is *amazingly* **amazing**\!\!
+
+well well now this isn't really the place to do that is it?
+I guess not really
+
